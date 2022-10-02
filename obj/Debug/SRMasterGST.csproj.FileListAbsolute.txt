@@ -1,0 +1,87 @@
+D:\SR\MyProject\SRAPI\SRMasterGST\bin\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI\SRMasterGST\bin\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.csprojResolveAssemblyReference.cache
+D:\SR\MyProject\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI\SRMasterGST\bin\Debug\Newtonsoft.Json.dll
+D:\SR\MyProject\SRAPI\SRMasterGST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SOMADITYA\Desktop\SRAPI\SRMasterGST\bin\Debug\SRMasterGST.dll
+C:\Users\SOMADITYA\Desktop\SRAPI\SRMasterGST\bin\Debug\SRMasterGST.pdb
+C:\Users\SOMADITYA\Desktop\SRAPI\SRMasterGST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SOMADITYA\Desktop\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.csproj.AssemblyReference.cache
+C:\Users\SOMADITYA\Desktop\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.csproj.CoreCompileInputs.cache
+C:\Users\SOMADITYA\Desktop\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.csproj.CopyComplete
+C:\Users\SOMADITYA\Desktop\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.dll
+C:\Users\SOMADITYA\Desktop\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.pdb
+G:\SRAPI\SRMasterGST\bin\Debug\SRMasterGST.dll
+G:\SRAPI\SRMasterGST\bin\Debug\SRMasterGST.pdb
+G:\SRAPI\SRMasterGST\bin\Debug\Newtonsoft.Json.dll
+G:\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.csproj.AssemblyReference.cache
+G:\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.csproj.CoreCompileInputs.cache
+G:\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.csproj.CopyComplete
+G:\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.dll
+G:\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.pdb
+D:\SR\SRAPI-20220613T062102Z-001\SRAPI\SRMasterGST\bin\Debug\Newtonsoft.Json.xml
+D:\SR\SRAPI-20220613T062102Z-001\SRAPI\SRMasterGST\bin\Debug\SRMasterGST.dll
+D:\SR\SRAPI-20220613T062102Z-001\SRAPI\SRMasterGST\bin\Debug\SRMasterGST.pdb
+D:\SR\SRAPI-20220613T062102Z-001\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.dll
+D:\SR\SRAPI-20220613T062102Z-001\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.pdb
+G:\GST\SRAPI\SRMasterGST\bin\Debug\SRMasterGST.dll
+G:\GST\SRAPI\SRMasterGST\bin\Debug\SRMasterGST.pdb
+G:\GST\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.csproj.AssemblyReference.cache
+G:\GST\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.csproj.CoreCompileInputs.cache
+G:\GST\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.csproj.CopyComplete
+G:\GST\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.dll
+G:\GST\SRAPI\SRMasterGST\obj\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220614\SRMasterGST\bin\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220614\SRMasterGST\bin\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220614\SRMasterGST\obj\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220614\SRMasterGST\obj\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220614 - Copy\SRMasterGST\bin\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220614 - Copy\SRMasterGST\bin\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220614 - Copy\SRMasterGST\obj\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220614 - Copy\SRMasterGST\obj\Debug\SRMasterGST.pdb
+G:\GST\SRAPI_20220614\SRMasterGST\bin\Debug\SRMasterGST.dll
+G:\GST\SRAPI_20220614\SRMasterGST\bin\Debug\SRMasterGST.pdb
+G:\GST\SRAPI_20220614\SRMasterGST\obj\Debug\SRMasterGST.csproj.AssemblyReference.cache
+G:\GST\SRAPI_20220614\SRMasterGST\obj\Debug\SRMasterGST.csproj.CoreCompileInputs.cache
+G:\GST\SRAPI_20220614\SRMasterGST\obj\Debug\SRMasterGST.csproj.CopyComplete
+G:\GST\SRAPI_20220614\SRMasterGST\obj\Debug\SRMasterGST.dll
+G:\GST\SRAPI_20220614\SRMasterGST\obj\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\bin\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\bin\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\bin\Debug\SRAPI.dll
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\bin\Debug\SRAPI.pdb
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\obj\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\obj\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\bin\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\bin\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\bin\Debug\SRAPI.dll
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\bin\Debug\SRAPI.pdb
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\obj\Debug\SRMasterGST.csprojResolveAssemblyReference.cache
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\obj\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\obj\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220621_Integrated to desktop app\SRMasterGST\bin\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220621_Integrated to desktop app\SRMasterGST\bin\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220621_Integrated to desktop app\SRMasterGST\bin\Debug\SRAPI.dll
+D:\SR\MyProject\SRAPI_20220621_Integrated to desktop app\SRMasterGST\bin\Debug\SRAPI.pdb
+D:\SR\MyProject\SRAPI_20220621_Integrated to desktop app\SRMasterGST\obj\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220621_Integrated to desktop app\SRMasterGST\obj\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220622_Integrated to desktop app\SRMasterGST\bin\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220622_Integrated to desktop app\SRMasterGST\bin\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220622_Integrated to desktop app\SRMasterGST\bin\Debug\SRAPI.dll
+D:\SR\MyProject\SRAPI_20220622_Integrated to desktop app\SRMasterGST\bin\Debug\System.Net.Http.dll
+D:\SR\MyProject\SRAPI_20220622_Integrated to desktop app\SRMasterGST\bin\Debug\SRAPI.pdb
+D:\SR\MyProject\SRAPI_20220622_Integrated to desktop app\SRMasterGST\bin\Debug\System.Net.Http.xml
+D:\SR\MyProject\SRAPI_20220622_Integrated to desktop app\SRMasterGST\obj\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220622_Integrated to desktop app\SRMasterGST\obj\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220622_Integrated to desktop app\SRMasterGST\obj\Debug\SRMasterGST.csprojResolveAssemblyReference.cache
+D:\SR\MyProject\SRAPI_20220728_Integrated to desktop app\SRMasterGST\obj\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220728_Integrated to desktop app\SRMasterGST\bin\Debug\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220728_Integrated to desktop app\SRMasterGST\bin\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220728_Integrated to desktop app\SRMasterGST\bin\Debug\SRAPI.dll
+D:\SR\MyProject\SRAPI_20220728_Integrated to desktop app\SRMasterGST\bin\Debug\System.Net.Http.dll
+D:\SR\MyProject\SRAPI_20220728_Integrated to desktop app\SRMasterGST\bin\Debug\SRAPI.pdb
+D:\SR\MyProject\SRAPI_20220728_Integrated to desktop app\SRMasterGST\bin\Debug\System.Net.Http.xml
+D:\SR\MyProject\SRAPI_20220728_Integrated to desktop app\SRMasterGST\obj\Debug\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220728_Integrated to desktop app\SRMasterGST\obj\Debug\SRMasterGST.csprojResolveAssemblyReference.cache

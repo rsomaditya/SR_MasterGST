@@ -1,0 +1,25 @@
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\bin\Release\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\bin\Release\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\bin\Release\Newtonsoft.Json.dll
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\bin\Release\SRAPI.dll
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\bin\Release\SRAPI.pdb
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\obj\Release\SRMasterGST.csprojResolveAssemblyReference.cache
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\obj\Release\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220615\SRMasterGST\obj\Release\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\bin\Release\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\bin\Release\SRMasterGST.pdb
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\bin\Release\Newtonsoft.Json.dll
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\bin\Release\SRAPI.dll
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\bin\Release\SRAPI.pdb
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\obj\Release\SRMasterGST.dll
+D:\SR\MyProject\SRAPI_20220615_for Desktop app\SRMasterGST\obj\Release\SRMasterGST.pdb
+G:\Project\VeSolve\Master GST API\SRMasterGST\bin\Release\SRMasterGST.dll
+G:\Project\VeSolve\Master GST API\SRMasterGST\bin\Release\SRMasterGST.pdb
+G:\Project\VeSolve\Master GST API\SRMasterGST\bin\Release\Newtonsoft.Json.dll
+G:\Project\VeSolve\Master GST API\SRMasterGST\bin\Release\SRAPI.dll
+G:\Project\VeSolve\Master GST API\SRMasterGST\bin\Release\SRAPI.pdb
+G:\Project\VeSolve\Master GST API\SRMasterGST\obj\Release\SRMasterGST.csproj.AssemblyReference.cache
+G:\Project\VeSolve\Master GST API\SRMasterGST\obj\Release\SRMasterGST.csproj.CoreCompileInputs.cache
+G:\Project\VeSolve\Master GST API\SRMasterGST\obj\Release\SRMasterGST.csproj.CopyComplete
+G:\Project\VeSolve\Master GST API\SRMasterGST\obj\Release\SRMasterGST.dll
+G:\Project\VeSolve\Master GST API\SRMasterGST\obj\Release\SRMasterGST.pdb
